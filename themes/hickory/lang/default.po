@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hickory\n"
+"POT-Creation-Date: 2013-08-12 21:54-0800\n"
+"PO-Revision-Date: 2013-08-12 21:54-0800\n"
+"Last-Translator: \n"
+"Language-Team: Solo Pine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\hickory_wp\\wp-content\\themes\\hickory"
+"\\lang\\\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "Houston, we have a problem."
+msgstr ""
+
+#: ../404.php:9
+msgid "The page you are looking for has not been found."
+msgstr ""
+
+#: ../archive.php:16
+msgid "Browsing Category"
+msgstr ""
+
+#: ../archive.php:18
+msgid "Browsing Tag"
+msgstr ""
+
+#: ../archive.php:20 ../archive.php:22 ../archive.php:24
+msgid "Browsing Archive"
+msgstr ""
+
+#: ../archive.php:26
+msgid "Browsing All Posts By"
+msgstr ""
+
+#: ../archive.php:94 ../index.php:106 ../search.php:49 ../single.php:101
+#: ../inc/widgets/homepage_widget.php:129
+msgid "On"
+msgstr ""
+
+#: ../archive.php:94 ../index.php:106 ../search.php:49 ../single.php:101
+#: ../inc/widgets/homepage_widget.php:129
+msgid "By"
+msgstr ""
+
+#: ../archive.php:109
+msgid "Sorry"
+msgstr ""
+
+#: ../archive.php:109
+msgid "No posts in this category yet"
+msgstr ""
+
+#: ../comments.php:7
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:7
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:7 ../inc/widgets/tabs_widget.php:48
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Post comment"
+msgstr ""
+
+#: ../footer.php:23 ../inc/headers/header1.php:12
+#: ../inc/headers/header2.php:30
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: ../footer.php:24 ../inc/headers/header1.php:13
+#: ../inc/headers/header2.php:31
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../footer.php:25 ../inc/headers/header1.php:14
+#: ../inc/headers/header2.php:32
+msgid "Follow us on Google Plus"
+msgstr ""
+
+#: ../footer.php:26 ../inc/headers/header1.php:15
+#: ../inc/headers/header2.php:33
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: ../footer.php:27 ../inc/headers/header1.php:16
+#: ../inc/headers/header2.php:34
+msgid "Follow us on Youtube"
+msgstr ""
+
+#: ../footer.php:28 ../inc/headers/header1.php:17
+#: ../inc/headers/header2.php:35
+msgid "Follow us on Tumblr"
+msgstr ""
+
+#: ../footer.php:29 ../inc/headers/header1.php:18
+#: ../inc/headers/header2.php:36
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:27
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:130
+msgid "says:"
+msgstr ""
+
+#: ../functions.php:131
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: ../functions.php:146
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Edit"
+msgstr ""
+
+#: ../index.php:21
+msgid "Latest Posts"
+msgstr ""
+
+#: ../page.php:34 ../page_fullwidth.php:39 ../single.php:166
+msgid "Share"
+msgstr ""
+
+#: ../search.php:5
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:63
+msgid ""
+"Your search did not return any results. Please try using a different search "
+"term."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search and hit enter..."
+msgstr ""
+
+#: ../sidebar.php:5
+msgid "No widgets added"
+msgstr ""
+
+#: ../single.php:117
+msgid "Overall Score"
+msgstr ""
+
+#: ../inc/templates/related_posts.php:16
+msgid "You Might Also Like"
+msgstr ""
+
+#: ../inc/widgets/facebook_widget.php:19
+msgid "A widget that displays a Facebook Like Box"
+msgstr ""
+
+#: ../inc/widgets/facebook_widget.php:25
+msgid "Hickory: Facebook Like Box"
+msgstr ""
+
+#: ../inc/widgets/homepage_widget.php:19
+msgid "A widget used for the homepage to display latest news or categories"
+msgstr ""
+
+#: ../inc/widgets/homepage_widget.php:25
+msgid "Hickory: Homepage Widget"
+msgstr ""
+
+#: ../inc/widgets/homepage_widget.php:167
+#: ../inc/widgets/latest_post_widget.php:98
+msgid "Latest News"
+msgstr ""
+
+#: ../inc/widgets/homepage_widget.php:172
+#: ../inc/widgets/latest_post_widget.php:103
+#: ../inc/widgets/social_widget.php:167
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/homepage_widget.php:197
+#: ../inc/widgets/latest_post_widget.php:121
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widgets/latest_post_widget.php:19
+msgid "A widget that displays your latest posts"
+msgstr ""
+
+#: ../inc/widgets/latest_post_widget.php:25
+msgid "Hickory: Latest Posts"
+msgstr ""
+
+#: ../inc/widgets/social_widget.php:19 ../inc/widgets/tabs_widget.php:19
+msgid "A widget that displays popular, comments and tags in tabs"
+msgstr ""
+
+#: ../inc/widgets/social_widget.php:25
+msgid "Hickory: Social"
+msgstr ""
+
+#: ../inc/widgets/social_widget.php:162
+msgid "Subscribe & Follow"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:25
+msgid "Marisa: Tabs"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:47
+msgid "Popular"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:49
+msgid "Tags"
+msgstr ""
+
+#: ../vafpress-library/classes/metabox.php:35
+msgid "[Dev Mode] "
+msgstr ""
+
+#: ../vafpress-library/classes/wp/tracker.php:27
+msgid "Once Weekly"
+msgstr ""
+
+#: ../vafpress-library/views/option/set.php:90
+msgid "Solo Pine Designs"
+msgstr ""
